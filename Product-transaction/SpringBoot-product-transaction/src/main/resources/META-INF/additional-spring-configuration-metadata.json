@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "api.url",
+  "type": "java.lang.String",
+  "description": "This API contains the product_transaction data"
+}]}
